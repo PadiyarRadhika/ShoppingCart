@@ -32,5 +32,6 @@ The App consists of 2 screens.
 ![Initial Landing Screen ](https://github.com/PadiyarRadhika/ShoppingCart/blob/main/Screeshots/InitialLanding?raw=true)
 
 2. The product summary screen where we display all the items added to the cart with their quantities respectively . 
+      In the product summary page, we have option to either remove items /add items from/to the cart.
 ![Cart Screen ](https://github.com/PadiyarRadhika/ShoppingCart/blob/main/Screeshots/InitialScreen.png?raw=true)
 
